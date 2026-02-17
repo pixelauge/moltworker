@@ -1,4 +1,5 @@
 {
+// API Token added for GitHub Actions deployment
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "young-hill-aaa9",
   "main": "src/index.ts",
